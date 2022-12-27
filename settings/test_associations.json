@@ -1,0 +1,87 @@
+{
+    "testMultiple3" : {
+        "name": "TestExerciceX: testMultiple3",
+        "points": 1
+    },
+    "testMultiple5" : {
+        "name": "TestExerciceX: testMultiple5",
+        "points": 1
+    },
+    "testMultiple5et3" : {
+        "name": "TestExerciceX: testMultiple5et3",
+        "points": 1
+    },
+    "testSansRacine" : {
+        "name": "TestExerciceX: testSansRacine",
+        "points": 1
+    },
+    "testUneRacine" : {
+        "name": "TestExerciceX: testUneRacine",
+        "points": 1
+    },
+    "testDeuxRacines" : {
+        "name": "TestExerciceX: testDeuxRacines",
+        "points": 1
+    },
+    "test1" : {
+        "name": "TestExercice3: test",
+        "points": 1
+    },
+    "test2" : {
+        "name": "TestExercice3: test2",
+        "points": 1
+    },
+    "test3" : {
+        "name": "TestExercice3: test3",
+        "points": 1
+    },
+    "test4" : {
+        "name": "TestExercice3: test4",
+        "points": 1
+    },
+    "testPosition1" : {
+        "name": "TestExerciceX: testPosition1",
+        "points": 1
+    },
+    "testPosition2" : {
+        "name": "TestExerciceX: testPosition2",
+        "points": 1
+    },
+    "testPosition3" : {
+        "name": "TestExerciceX: testPosition3",
+        "points": 1
+    },
+    "testPointDeRencontre1" : {
+        "name": "TestExerciceX: testPointDeRencontre1",
+        "points": 1
+    },
+    "testPointDeRencontre2" : {
+        "name": "TestExerciceX: testPointDeRencontre2",
+        "points": 1
+    },
+    "testPointDeRencontre3" : {
+        "name": "TestExerciceX: testPointDeRencontre3",
+        "points": 1
+    },"testModule1" : {
+        "name": "TestExerciceX: testModule1",
+        "points": 1
+    },"testModule2" : {
+        "name": "TestExerciceX: testModule2",
+        "points": 1
+    },"testEffectuerRotation1" : {
+        "name": "TestExerciceX: testEffectuerRotation1",
+        "points": 1
+    },"testEffectuerRotation2" : {
+        "name": "TestExerciceX: testEffectuerRotation2",
+        "points": 1
+    },"testEffectuerRotation3" : {
+        "name": "TestExerciceX: test",
+        "points": 1
+    },"testEffectuerRotation4" : {
+        "name": "TestExerciceX: testEffectuerRotation4",
+        "points": 1
+    },"testEffectuerRotation5" : {
+        "name": "TestExerciceX: testEffectuerRotation5",
+        "points": 1
+    }
+}
